@@ -8,7 +8,7 @@ const About = () => {
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
                 </div>
                 <p className='text-xl mt-20 max-sm:mt-10'>
-                Hello! I'm Geetha Bhargavi Tholupuluri, a third-year Computer Science and Engineering student Specializing in AI and ML at VIT - AP Amaravati. Passionate about technology, I'm determined to excel in the computer science field. Actively pursuing internships and work opportunities in dynamic settings to apply and enhance my skills. Eager to upskill in new technologies and constantly seeking to broaden my knowledge. Open to learning and growth.
+                Hello! I'm Geetha Bhargavi Tholupuluri, a Final-year Computer Science and Engineering student Specializing in AI and ML at VIT - AP Amaravati. Passionate about technology, I'm determined to excel in the computer science field. Actively pursuing internships and work opportunities in dynamic settings to apply and enhance my skills. Eager to upskill in new technologies and constantly seeking to broaden my knowledge. Open to learning and growth.
                 </p>
                 <br />
                 
